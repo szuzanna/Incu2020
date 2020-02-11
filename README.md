@@ -1,1 +1,1 @@
-* Training repository for Network automation track * 
+*Training repository for Network automation track * 
